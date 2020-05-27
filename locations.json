@@ -1,0 +1,40 @@
+// JSON Document
+[
+    {
+        "name": "Framer HQ",
+        "location": { "longitude": 151.202, "latitude": -33.895 },
+        "focusLocation": { "zoom": 12, "bearing": 0, "pitch": 5 },
+        "category": "office",
+        "details": "This is where the magic happens!"
+    },
+	   {
+        "name": "Framer HQ",
+        "location": { "longitude": 151.170, "latitude": -33.170 },
+        "focusLocation": { "zoom": 12, "bearing": 0, "pitch": 5 },
+        "category": "office",
+        "details": "This is where the magic happens!"
+    },
+	   {
+        "name": "Framer HQ",
+        "location": { "longitude": 151.500, "latitude": -33.500 },
+        "focusLocation": { "zoom": 12, "bearing": 0, "pitch": 5 },
+        "category": "office",
+        "details": "This is where the magic happens!"
+    },
+	   {
+        "name": "Framer HQ",
+        "location": { "longitude": 151.252, "latitude": -33.885 },
+        "focusLocation": { "zoom": 12, "bearing": 0, "pitch": 5 },
+        "category": "office",
+        "details": "This is where the magic happens!"
+    },
+	{
+        "name": "Framer HQ",
+        "location": { "longitude": 52.372888, "latitude": 4.888030 },
+        "focusLocation": { "zoom": 12, "bearing": 0, "pitch": 60 },
+        "category": "office",
+        "details": "This is where the magic happens!"
+    },
+    // Add as many more markers as you’d like!
+]
+
